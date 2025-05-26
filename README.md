@@ -55,7 +55,7 @@ This tool is specially made for:
 
 ## 📸 Video
 ### 🔍 Click on StudoCu-PDF-Downloader.zip
-![Preview 1](video.mkv)
+![Preview 1](gif.gif)
 
 ---
 
