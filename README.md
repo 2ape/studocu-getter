@@ -53,6 +53,19 @@ This tool is specially made for:
 
 ---
 
+## 📸 Screenshots
+
+### 🔍 Preview from Studocu Page
+![Preview 1](Screenshot_2.png)
+
+### 📥 Extension in Action (Popup UI)
+![Popup UI](Screenshot_3.png)
+
+### 📄 Downloaded PDF Result
+![Downloaded PDF](Screenshot_4.png)
+
+---
+
 ## 📄 How to Use
 
 1. Go to any Studocu document page
