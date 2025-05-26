@@ -53,19 +53,9 @@ This tool is specially made for:
 
 ---
 
-## 📸 Screenshots
-2025-05-26 21-54-24.mkv
+## 📸 Video
 ### 🔍 Click on StudoCu-PDF-Downloader.zip
-![Preview 1](`2025-05-26 21-54-24.mkv`)
-
-### 📥 Download StudoCu-PDF-Downloader.zip
-![Popup UI](Screenshot_3.png)
-
-### 📄 Unzip the StudoCu-PDF-Downloader.zip
-![Popup UI](Screenshot_5.png)
-
-### 📄 Load into Extension
-![Downloaded PDF](Screenshot_4.png)
+![Preview 1](video.mkv)
 
 ---
 
