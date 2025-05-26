@@ -55,13 +55,16 @@ This tool is specially made for:
 
 ## 📸 Screenshots
 
-### 🔍 Preview from Studocu Page
+### 🔍 Click on StudoCu-PDF-Downloader.zip
 ![Preview 1](Screenshot_2.png)
 
-### 📥 Extension in Action (Popup UI)
+### 📥 Download StudoCu-PDF-Downloader.zip
 ![Popup UI](Screenshot_3.png)
 
-### 📄 Downloaded PDF Result
+### 📄 Unzip the StudoCu-PDF-Downloader.zip
+![Downloaded PDF](Screenshot 2025-05-26 210626.png)
+
+### 📄 Load into Extension
 ![Downloaded PDF](Screenshot_4.png)
 
 ---
