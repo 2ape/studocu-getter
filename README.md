@@ -39,9 +39,9 @@ This tool is specially made for:
 
 ---
 
-## 🧰 How to Set It Up (Two Options)
+## 🧰 How to Set It Up
 
-### 📦 Option 1: Load Unpacked Extension (Recommended)
+### 📦 Load Unpacked Extension (Recommended)
 
 1. Download the ZIP from the [repo](https://github.com/Calamivathan/StudoCu-PDF-Downloader)
 2. **Unzip the folder** to your computer
