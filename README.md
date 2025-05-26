@@ -1,6 +1,6 @@
 # 📄 StudoCu PDF Downloader - Chrome Extension
 
-🚀 **Easily download premium StudoCu documents as high-quality PDFs — no login or premium subscription required.**  
+🚀 **Easily download premium StudoCu documents as high-quality PDFs — no login or premium subscription required.**
 🛠️ Built for students, by a student. 100% free and privacy-respecting.
 
 ---
@@ -10,113 +10,118 @@
 **StudoCu PDF Downloader** is a powerful browser extension that helps students and learners bypass limitations on **Studocu.com** and download full documents in PDF format — even when blurred or partially locked.
 
 With a single click, you can:
-- 📥 Download entire Studocu documents page by page as clear images
-- 📄 Automatically combine them into a printable, searchable PDF
-- 🔒 Bypass Studocu’s premium wall — no account or subscription needed
-- 🧠 Save study material offline for exam prep, assignments, and revision
+
+* 📥 Download entire Studocu documents page by page as clear images
+* 📄 Automatically combine them into a printable, searchable PDF
+* 🔒 Bypass Studocu’s premium wall — no account or subscription needed
+* 🧠 Save study material offline for exam prep, assignments, and revision
 
 ---
 
 ## 🎯 Who Is It For?
 
 This tool is specially made for:
-- **Students preparing for exams**
-- **College/university learners** who want free access to study guides, solved papers, or notes
-- **Researchers** looking for reference material without restrictions
-- Anyone frustrated with locked/blurry Studocu previews
+
+* **Students preparing for exams**
+* **College/university learners** who want free access to study guides, solved papers, or notes
+* **Researchers** looking for reference material without restrictions
+* Anyone frustrated with locked/blurry Studocu previews
 
 ---
 
 ## 🧩 Features
 
-- ✅ One-click PDF download from any Studocu document page
-- ✅ Works with most public and premium documents
-- ✅ Clean, easy-to-use UI with live progress
-- ✅ No sign-in required
-- ✅ Completely free and open-source
+* ✅ One-click PDF download from any Studocu document page
+* ✅ Works with most public and premium documents
+* ✅ Clean, easy-to-use UI with live progress
+* ✅ No sign-in required
+* ✅ Completely free and open-source
 
 ---
 
-## 🧰 How to Set It Up (Easy)
+## 🧰 How to Set It Up (Two Options)
 
-### 📦 Step 1: Download the Extension
-Grab the `.crx` file directly from the [releases or main repo](https://github.com/Calamivathan/StudoCu-PDF-Downloader/blob/main/studocu-pdf-downloader.crx).
+### 📦 Option 1: Load Unpacked Extension (Recommended)
 
-> File: `studocu-pdf-downloader.crx`
+1. Download the ZIP from the [repo](https://github.com/Calamivathan/StudoCu-PDF-Downloader)
+2. **Unzip the folder** to your computer
+3. Open Chrome and go to `chrome://extensions/`
+4. Enable **Developer Mode** (toggle at top-right)
+5. Click **“Load unpacked”** and select the **unzipped folder**
 
----
-
-### 🛠️ Step 2: Install the Extension Manually
-
-1. Open `chrome://extensions/` in Chrome
-2. Enable **Developer Mode** (top right toggle)
-3. Drag and drop the `.crx` file into the page
-4. Click **“Add Extension”** when prompted
-
-✅ That’s it! You’ll now see the icon in your toolbar.
+✅ Extension will now appear in your toolbar!
 
 ---
 
-### 📄 Step 3: Use It
+## 📄 How to Use
 
-1. Go to **any Studocu document page** (e.g. `https://www.studocu.com/...`)
-2. Click on the extension icon
+1. Go to any Studocu document page
+2. Click the extension icon
 3. Press **“Download as PDF”**
-4. Wait a few seconds — the extension will:
-   - Detect all pages
-   - Download the images
-   - Merge them into a PDF
-   - Trigger download
+4. Wait while:
 
-You can then open, print, or share the file freely!
+   * All pages are detected
+   * Images are downloaded
+   * PDF is generated and downloaded
+
+📂 You can then open, save, or print the file!
 
 ---
 
-## 📊 Live Stats (Optional)
-The extension shows how many PDFs have been downloaded globally by users, helping you track usage and impact.
+## 📊 Live Stats
+
+The extension tracks how many PDFs have been generated globally, and displays it inside the popup for fun — no personal data is collected.
 
 ---
 
 ## 🙌 Why I Built This
 
-I was tired of being blocked from accessing my own university’s shared study materials just because I wasn’t on a premium plan. So I created this to help every student — regardless of budget — get the resources they need.
+I was tired of hitting a paywall just to review past papers or assignments uploaded by students like me. This extension is a small step to ensure **knowledge stays accessible** — without ads, login walls, or fees.
 
-> 🧠 Knowledge should be free. This is just a small step in making that true.
+> 🧠 **Built by a learner, for learners.**
 
 ---
 
 ## 🧠 FAQ
 
 ### ❓ Does it require a Studocu account?
-No. You don’t need to be signed in.
+
+No. It works even if you’re not logged in.
 
 ### ❓ Does it work on all documents?
-It works on most public and even some premium-only documents — especially those that show blurred previews.
+
+It supports most public and even premium-blurred documents with visible image data.
 
 ### ❓ Is it legal?
-Use it **only for personal educational purposes**. Downloading copyrighted material may violate Studocu’s terms of use.
 
-### ❓ Does it collect my data?
-**No.** It doesn’t collect, track, or store anything. 100% private.
+Use this **only for personal, educational purposes**. Downloading or redistributing copyrighted material without permission may violate Studocu’s TOS.
+
+### ❓ Does it track or collect data?
+
+No. The extension does not store, send, or collect any of your browsing or personal information.
 
 ---
 
 ## ❤️ Support the Project
 
-If this extension helped you:
-- ⭐ Star this repo
-- 🧋 [Buy me a coffee](https://www.buymeacoffee.com/Calamivathan) to support future updates
-- 🧠 Share it with a friend
+If this helped you:
+
+* ⭐ Star the repo
+* 📤 Share with fellow students
 
 ---
 
 ## 👨‍💻 Author
 
-Made by [Calamivathan](https://github.com/Calamivathan)  
+Made by [Calamivathan](https://github.com/Calamivathan)
 🗿 “I break things to build them better.”
 
 ---
 
 ## ⚠️ Disclaimer
 
-This project is for educational purposes only. The author does not endorse bypassing legitimate paywalls or terms of service. Use responsibly.
+This project is for educational use only. The developer is not responsible for misuse. Use at your own discretion and respect intellectual property laws.
+
+---
+
+Let me know if you'd like a version optimized for the Chrome Web Store too!
