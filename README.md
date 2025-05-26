@@ -62,7 +62,7 @@ This tool is specially made for:
 ![Popup UI](Screenshot_3.png)
 
 ### 📄 Unzip the StudoCu-PDF-Downloader.zip
-![Downloaded PDF](Screenshot_5.png)
+![Popup UI](Screenshot_5.png)
 
 ### 📄 Load into Extension
 ![Downloaded PDF](Screenshot_4.png)
