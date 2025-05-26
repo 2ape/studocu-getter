@@ -43,7 +43,7 @@ This tool is specially made for:
 
 ### 📦 Load Unpacked Extension (Recommended)
 
-1. Download the ZIP from the [repo](https://github.com/Calamivathan/StudoCu-PDF-Downloader)
+1. Download the ZIP from the [repo](https://github.com/Calamivathan/StudoCu-PDF-Downloader/blob/main/studocu-pdf-downloader.zip)
 2. **Unzip the folder** to your computer
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable **Developer Mode** (toggle at top-right)
