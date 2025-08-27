@@ -1,0 +1,18 @@
+﻿{
+  "manifest_version": 3,
+  "name": "Studocu Getter",
+  "version": "1.0",
+  "description": "Get Studocu PDFs for free",
+  "permissions": ["activeTab", "downloads"],
+  "host_permissions": ["https://www.studocu.com/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Get PDF"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.studocu.com/*/document/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
